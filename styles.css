@@ -6,3 +6,9 @@ label {
    display: inline-block;
    width: 100px;
 }
+.header{
+    text-align: center;
+    width: 101%;
+    height: 50px;
+    bottom: 0;
+}
